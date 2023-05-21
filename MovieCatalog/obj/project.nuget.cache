@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7dMvjDqHOrAQBBmsi2rt+KNeXUIEbX/ACr1jJJlnms83u20BwFml2ZGQbLpD+lObRMyt+ohtSfZY/RHkR6yjg==",
+  "dgSpecHash": "aAYKHVRs7ZSyQykvOkmZ8XHH3Jft17bb7/n+bpE8fpd+hPDikbz4RgvBM8/GJwUCB/7dS9pQ+JY1mEI/vdgHSw==",
   "success": true,
-  "projectFilePath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+  "projectFilePath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\MovieCatalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Smokiel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Smokiel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

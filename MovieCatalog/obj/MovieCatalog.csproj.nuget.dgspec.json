@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj": {}
+    "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\MovieCatalog.csproj": {}
   },
   "projects": {
-    "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj": {
+    "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\MovieCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+        "projectUniqueName": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\MovieCatalog.csproj",
         "projectName": "MovieCatalog",
-        "projectPath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+        "projectPath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\MovieCatalog.csproj",
         "packagesPath": "C:\\Users\\Smokiel\\.nuget\\packages\\",
-        "outputPath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\obj\\",
+        "outputPath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\Moviecatalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\Smokiel\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
