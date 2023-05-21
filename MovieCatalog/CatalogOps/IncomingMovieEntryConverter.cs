@@ -1,6 +1,7 @@
 ﻿using Microsoft.VisualBasic;
+using MovieCatalog.Data;
 
-namespace MovieCatalog
+namespace MovieCatalog.CatalogOps
 {
     public static class IncomingMovieEntryConverter
     {
@@ -16,6 +17,6 @@ namespace MovieCatalog
             );
             return newMovieEntry;
         }
-        
+
     }
 }

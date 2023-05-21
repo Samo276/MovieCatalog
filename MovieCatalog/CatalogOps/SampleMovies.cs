@@ -1,4 +1,6 @@
-﻿namespace MovieCatalog
+﻿using MovieCatalog.Data;
+
+namespace MovieCatalog.CatalogOps
 {
     public class SampleMovies
     {

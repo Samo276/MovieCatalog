@@ -1,7 +1,9 @@
 using Microsoft.OpenApi.Any;
 using Microsoft.VisualBasic;
-using MovieCatalog;
 using Microsoft.AspNetCore.HttpLogging;
+using MovieCatalog.CatalogOps;
+using MovieCatalog.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

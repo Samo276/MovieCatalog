@@ -1,13 +1,13 @@
 ﻿global using System;
 
-namespace MovieCatalog
+namespace MovieCatalog.Data
 {
     public class MovieEntry
     {
         public int Id { get; set; }
         public DateTime EntryCreationTime { get; set; }
         public DateTime PremiereTime { get; set; }
-        public string Genre  { get; set; }
+        public string Genre { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
 

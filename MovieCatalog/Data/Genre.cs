@@ -1,4 +1,4 @@
-﻿namespace MovieCatalog
+﻿namespace MovieCatalog.Data
 {
     public class Genre
     {
