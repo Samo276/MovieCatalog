@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7dMvjDqHOrAQBBmsi2rt+KNeXUIEbX/ACr1jJJlnms83u20BwFml2ZGQbLpD+lObRMyt+ohtSfZY/RHkR6yjg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Pitney\\MovieCatalog_Minimal\\MovieCatalog\\MovieCatalog\\MovieCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smokiel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Smokiel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Smokiel\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Smokiel\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Smokiel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Smokiel\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
