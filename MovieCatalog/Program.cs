@@ -1,7 +1,7 @@
 using Microsoft.OpenApi.Any;
 using Microsoft.VisualBasic;
 using MovieCatalog;
-
+using Microsoft.AspNetCore.HttpLogging;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,7 +9,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddHttpLogging(httpLoggingFields =>
+{
+    httpLoggingFields.LoggingFields = HttpLoggingFields.Request;
+});
+
 var app = builder.Build();
+app.UseHttpLogging();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
